@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Nikki
 
-<!--
-**hnperry/hnperry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ 🔍 I am here to share my Data Science and Machine Learning projects
 
-Here are some ideas to get you started:
++ 🔭 I’m currently working on [Youtube Channel Data EDA](/yteda)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ 🌱 I’m currently learning [Andrew Ng Machine Learning Course](https://www.coursera.org/specializations/machine-learning-introduction)
+
++ 📫 Contact: [hperry1805@gmail.com](mailto:hperry1805@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=hnperry&color=blueviolet&style=plastic)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnperry&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+![Snake animation](https://github.com/hnperry/github-readme/blob/output/github-contribution-snake.svg)
