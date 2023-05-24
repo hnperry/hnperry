@@ -10,6 +10,8 @@
 
 ![](https://komarev.com/ghpvc/?username=hnperry&color=blueviolet&style=plastic)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnperry&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-![Snake animation](https://github.com/hnperry/github-readme/blob/output/github-contribution-snake.svg)
+<div align="center"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hnperry&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hnperry&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
+</div>
+  
