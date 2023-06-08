@@ -2,7 +2,7 @@
 
 + 🔍 I am here to share my Data Science and Machine Learning projects
 
-+ 🔭 I’m currently working on [Youtube Channel Data EDA](https://github.com/hnperry/yteda/blob/master/yt.ipynb)
++ 🔭 I’m currently working on [LGBT Travel Index Visualization](https://github.com/hnperry/lgbttravelindex/blob/master/README.md)
 
 + 🌱 I’m currently learning [Andrew Ng Machine Learning Course](https://www.coursera.org/specializations/machine-learning-introduction)
 
