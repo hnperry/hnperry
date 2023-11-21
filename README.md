@@ -6,7 +6,7 @@
 
 + 🌱 I’m currently learning [Andrew Ng Machine Learning Course](https://www.coursera.org/specializations/machine-learning-introduction)
 
-+ 📫 Contact: [hperry1805@gmail.com](mailto:hperry1805@gmail.com)
++ 📫 Contact: [info@hnperry.com](mailto:info@hnperry.com)
 
 ![](https://komarev.com/ghpvc/?username=hnperry&color=blueviolet&style=plastic)
 
